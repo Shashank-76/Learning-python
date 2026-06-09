@@ -11,6 +11,9 @@ A repository documenting my Python learning journey.
 | chapter3 | Strings, slicing, string functions |
 | chapter4 | Lists, tuples |
 | chapter5 | Dictionaries, sets |
+| chapter6 | Conditions, if/else, elif |
+| chapter7 | Loops, for, while |
+| chapter8 | Function and Recursion|
 
 ## 🛠️ Tools
 - Python 3
