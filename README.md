@@ -15,6 +15,12 @@ A repository documenting my Python learning journey.
 | chapter7 | Loops, for, while |
 | chapter8 | Function and Recursion|
 
+## 🎮 Projects
+
+| Project | Description |
+|---------|-------------|
+| project1_ROCK_PAPER_SCISSOR | Rock Paper Scissors game against the computer |
+
 ## 🛠️ Tools
 - Python 3
 - VS Code
