@@ -1,0 +1,4 @@
+i am learning ###### i will get good with ######
+Python is a high level, ####### ####### programming language created by Guido van Rossum in 1991.
+High level means it's closer to human language than machine language — you write print("hello") instead of binary or complex commands.
+General ####### means you can use it for almost anything — web development, data science, AI, automation, games etc.

@@ -1,0 +1,15 @@
+
+
+12:44 AM
+python is a high level, general purpose programming language created by Guido van Rossum in 1991.
+
+High level means it's closer to human language than machine language — you write print("hello") instead of binary or complex commands.
+
+General purpose means you can use it for almost anything — web development, data science, AI, automation, games etc.
+
+What makes Python special:
+
+Simple syntax — reads almost like English
+Beginner friendly — less strict than other languages
+Huge community — tons of libraries and support
+Versatile — used everywhere from startups to NASA
