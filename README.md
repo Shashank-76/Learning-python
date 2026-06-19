@@ -26,6 +26,7 @@ A repository documenting my Python learning journey.
 |---------|-------------|
 | project1_ROCK_PAPER_SCISSOR | Rock Paper Scissors game against the computer |
 | project2_THE_PERFECT_GUESS | Perfectly Guessing a random generated number |
+| project3_CONTACT_BOOK | A contact book where we can add, view ,search and delete our contacts |
 
 ## 🛠️ Tools
 - Python 3
