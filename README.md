@@ -20,6 +20,7 @@ A repository documenting my Python learning journey.
 | chapter12 | Exception Handeling and more|
 | chapter13 | Virtual Enviroment and more |
 | chapter14 | Numpy |
+| chapter15 | Pandas |
 
 ## 🎮 Projects
 
